@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-![](https://raw.githubusercontent.com/oeufhp/github-stats-transparent/output/generated/overview.svg)
-![](https://raw.githubusercontent.com/oeufhp/github-stats-transparent/output/generated/languages.svg)
-
-- ReactJS, NextJS, Elixir, React Native, expressJS, PostgreSQL, docker
+![Oeuf's GitHub stats](https://github-readme-stats.vercel.app/api?username=oeufhp&show_icons=true&theme=kacho_ga&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oeufhp&langs_count=7)]()
+[![Oeuf's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=oeufhp)]()
